@@ -1,0 +1,3 @@
+Method,Mean_Nearest_Real_Distance,Median_Nearest_Real_Distance,Minimum_Nearest_Real_Distance,Risk_Threshold,Potentially_Close_Records,Potential_Risk_Percentage,Privacy_Indicator
+Gaussian Copula,2.6943245884568,2.5415362748648334,1.1737426408911507,1.2782157633113735,2,0.35149384885764495,0.9964850615114236
+CTGAN,6.246040178008905,6.189359768592921,3.456808424549622,1.2782157633113735,0,0.0,1.0

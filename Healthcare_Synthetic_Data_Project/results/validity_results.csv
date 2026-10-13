@@ -1,0 +1,3 @@
+Method,Range_Valid_Features,Total_Numerical_Features,Range_Validity,Basic_Validity,Validity_Score
+Gaussian Copula,30,30,1.0,1.0,1.0
+CTGAN,30,30,1.0,1.0,1.0
